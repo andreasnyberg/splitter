@@ -29,7 +29,18 @@ input {
 }
 
 .form {
+  margin-top: 150px;
   max-width: 120px;
+}
+
+.btn {
+  border: 0;
+  border-radius: 1000px;
+  background-color: pink;
+  color: #555;
+  font-weight: bold;
+  height: 50px;
+  margin-top: 8px;
 }
 
 
