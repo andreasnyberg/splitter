@@ -34,9 +34,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
     result1.innerHTML = string1;
     result2.innerHTML = string2;
+    result1.classList.add("visible");
+    result2.classList.add("visible");
   }
 
   form.addEventListener('submit', calculate);
-
-
 });
