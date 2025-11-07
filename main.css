@@ -35,12 +35,12 @@ input {
   width: 85px;
 }
 
-#person1,
+#inputPerson1,
 #result1 {
   background-color: var(--person-1-color);
 }
 
-#person2,
+#inputPerson2,
 #result2 {
   background-color: var(--person-2-color);
 }
